@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Deploy a HA Chef Server Stack",
+  "icon": "ubuntu",
+  "description": "This template allows you to deploy a highly available Chef server stack.",
+  "summary": "This template takes a minimum amount of parameters and deploys a HA Chef Server Stack.",
+  "githubUsername": "andy-dufour",
+  "dateUpdated": "2019-03-12"
+}
+
+
